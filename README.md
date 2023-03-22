@@ -33,4 +33,4 @@ Output: matrix designating detected SVs
 ```shell
 Rscript Kataegis_call/kataegis_event_190422.R
 ```
-Output: Rainfall plot in pdf
+Output: Rainfall plot in pdf format
