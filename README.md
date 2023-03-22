@@ -13,10 +13,18 @@ git clone https://github.com/BiNEL-SNU/bMDA.git
 
 ## Instructions for use
 ### SNV calling
-
+```shell
+bash SNV_call/SNV_call.sh
+```
 
 ### SV calling
+```shell
+bash SV_call/SV_call.sh
+Rscript SV_call/analysis of SV_190422.R
+```
 
 
 ### Kataegis calling
-
+```shell
+Rscript Kataegis_call/kataegis_event_190422.R
+```
